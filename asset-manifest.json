@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/log-swift-webapp/static/css/main.8d34b74e.css",
-    "main.js": "/log-swift-webapp/static/js/main.f155f29f.js",
+    "main.js": "/log-swift-webapp/static/js/main.ac73bd31.js",
     "worker-xquery.js": "/log-swift-webapp/7a1a62fec334f0f103a8f7126d402e0e.js",
     "mode-php_laravel_blade.js": "/log-swift-webapp/a1e328447b113f17ea503a4764384b13.js",
     "worker-javascript.js": "/log-swift-webapp/42971365b635d099414b59fd789a7cde.js",
@@ -473,10 +473,10 @@
     "d.js": "/log-swift-webapp/c98e74fc97b04fe8bf43dcdff549afcf.js",
     "mode-text.js": "/log-swift-webapp/0ffb18fb70c87335edee31a479f58a43.js",
     "main.8d34b74e.css.map": "/log-swift-webapp/static/css/main.8d34b74e.css.map",
-    "main.f155f29f.js.map": "/log-swift-webapp/static/js/main.f155f29f.js.map"
+    "main.ac73bd31.js.map": "/log-swift-webapp/static/js/main.ac73bd31.js.map"
   },
   "entrypoints": [
     "static/css/main.8d34b74e.css",
-    "static/js/main.f155f29f.js"
+    "static/js/main.ac73bd31.js"
   ]
 }
