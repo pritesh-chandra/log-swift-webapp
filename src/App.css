@@ -248,3 +248,25 @@ footer {
   font-family: 'IBM Plex Mono', monospace;
   text-align: center;
 }
+
+/* CSS for the image hover effect */
+.hover-span {
+  position: relative;
+  display: inline-block;
+}
+
+.hover-span .hover-image {
+  display: none;
+  position: absolute;
+  bottom: 100%; /* Position the image above the text */
+  left: 50%;
+  transform: translateX(-50%);
+  margin-bottom: 10px; /* Adjust as needed */
+  width: 200px; /* Adjust as needed */
+  height: auto; /* Adjust as needed */
+  z-index: 10; /* Ensure it appears above other content */
+}
+
+.hover-span:hover .hover-image {
+  display: block;
+}
